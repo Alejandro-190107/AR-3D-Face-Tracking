@@ -24,8 +24,8 @@
 
 ## <p align="left" style="color: #80cbc4;"> Screenshot Project 💻 </p>
 
-🔶 [Project Website]()
-🔶 [Another Version]()
+🔶 [Project Website](https://alejandro-190107.github.io/AR-3D-Face-Tracking/)
+🔶 [Another Version](https://ar-3d-face-tracking-al.netlify.app/)
 
 ![Screenshot](assets/img/Screenshot.png)
 ![Screenshot](assets/img/Screenshot2.jpg)
